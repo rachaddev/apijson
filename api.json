@@ -1,0 +1,40 @@
+{
+  "video": {
+    "id": 1,
+    "title": "video Title",
+    "vus": 19,
+    "likes": 5,
+    "description": "description",
+    "imageUrl": "",
+    "video": "videoUrl",
+    "other": [
+      {
+        "id": 2,
+        "title": "test",
+        "imageUrl": ""
+      },
+      {
+        "id": 3,
+        "title": "test",
+        "imageUrl": ""
+      },
+      {
+        "id": 4,
+        "title": "test",
+        "imageUrl": ""
+      },{
+        "id": 5,
+        "title": "test",
+        "imageUrl": ""
+      },{
+        "id": 6,
+        "title": "test",
+        "imageUrl": ""
+      },{
+        "id": 7,
+        "title": "test",
+        "imageUrl": ""
+      }
+    ]
+  }
+}
