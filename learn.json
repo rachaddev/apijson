@@ -6,9 +6,64 @@
       "image": "https://www.google.com/logos/fnbx/animal_sounds/duck.png"
     },
     {
-      "id": 1,
+      "id": 2,
       "audio": "https://www.google.com/logos/fnbx/animal_sounds/frog.mp3",
       "image": "https://www.google.com/logos/fnbx/animal_sounds/frog.png"
+    },
+    {
+      "id": 3,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/cat.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/cat.png"
+    },
+    {
+      "id": 4,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/rattlesnake.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/rattlesnake.png"
+    },
+    {
+      "id": 5,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/hedgehog.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/hedgehog.png"
+    },
+    {
+      "id": 6,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/camel.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/camel.png"
+    },
+    {
+      "id": 7,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/horse.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/horse.png"
+    },
+    {
+      "id": 8,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/dove.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/dove.png"
+    },
+    {
+      "id": 9,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/dove.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/dove.png"
+    },
+    {
+      "id": 10,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/swan.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/swan.png"
+    },
+    {
+      "id": 11,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/turkey.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/turkey.png"
+    },
+    {
+      "id": 12,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/owl.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/owl.png"
+    },
+    {
+      "id": 13,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/lion.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/lion.png"
     }
   ]
 }
