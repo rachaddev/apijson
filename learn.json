@@ -1,0 +1,14 @@
+{
+  "animal": [
+    {
+      "id": 1,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/duck.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/duck.png"
+    },
+    {
+      "id": 1,
+      "audio": "https://www.google.com/logos/fnbx/animal_sounds/frog.mp3",
+      "image": "https://www.google.com/logos/fnbx/animal_sounds/frog.png"
+    }
+  ]
+}
